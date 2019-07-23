@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Haoye Qin
+No.37 XueYuan Road, Beihang University, Beijing, China, 100191
+Email: hoyqen@buaa.edu.cn · Tel: (86) 18801053700
 
-You can use the [editor on GitHub](https://github.com/hoyqen/haoyeqin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+School of Instrumentation Science and Opto- electronics Engineering, Beihang University
+Major in Technology and Apparatus of Measuring and Control
+GPA: 3.94/4.0 (93.78/100); Rank: 1/125
+School of Biological Science and Medical Engineering, Beihang University
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +30,46 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### RESEARCH EXPERIENCE
+Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
+Optimization of an acoustic levitation system
+Building an acoustic levitation system
+Levitated liquid droplets for extreme ultraviolet spectroscopy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hoyqen/haoyeqin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Research Internship (Supervisor: Prof. Ming Ding) 07/2018
+Present Fabrication of micro-bottle (Q-factor 1E8), micro-sphere and dislocation fiber using fiber fusion splicer
+Generation of optical frequency combs using micro-bottle resonator
+Using dislocation fiber using as a concentration sensor and a detection of refractive index Analysis and survey of relevant theory
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Light-field Three-dimensional Confocal Laser Endomicroscopy
+Use Zemax to simulate the wavelength-focus length relationship of Grin Lens in our laser confocal microscopy
+Use Labview to control PZT scanning and gather information from the spectrometer
+Fabricate the fiber based device of grin lens
+
+### PUBLICATION
+Paper:
+
+
+Patent:
+Spectral tunable light source system (Applied, PCT/CHINA)
+An acoustic suspension device, microscope and contactless inspection system (CHINA)
+
+
+### AWARDS
+National Scholarship
+Finalist in Global Medical Engineering Contest 2018
+Challenge Cup of Beijing, 1st Award
+Excellent Entrepreneurship Team of College Students in Beijing, 3rd Award
+
+Honor Student of BUAA
+### TECHNICAL SKILL & ENGILSH
+Software: Labview (DAQ and IMAQ suites included); Comsol; Zemax; FDTD; Solidworks;  
+Programming Skills: MATLAB; C; Mathematics; Python
+CET4: 630 CET6: 550
+GRE: Verbal 160, Quantitative 169, Analytical Writing 3.0 
+
+### ADDITIONAL INFORMATION
+Languages: Native in Mandarin Chinese 
+Interests: Badminton
+Charity: More than 200 hours of volunteer service
