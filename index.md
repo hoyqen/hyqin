@@ -10,26 +10,6 @@ GPA: 3.94/4.0 (93.78/100); Rank: 1/125
 School of Biological Science and Medical Engineering, Beihang University
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### RESEARCH EXPERIENCE
 Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
 Optimization of an acoustic levitation system
@@ -40,7 +20,6 @@ Research Internship (Supervisor: Prof. Ming Ding) 07/2018
 Present Fabrication of micro-bottle (Q-factor 1E8), micro-sphere and dislocation fiber using fiber fusion splicer
 Generation of optical frequency combs using micro-bottle resonator
 Using dislocation fiber using as a concentration sensor and a detection of refractive index Analysis and survey of relevant theory
-
 
 Light-field Three-dimensional Confocal Laser Endomicroscopy
 Use Zemax to simulate the wavelength-focus length relationship of Grin Lens in our laser confocal microscopy
