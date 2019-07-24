@@ -2,7 +2,7 @@
 No.37 Xueyuan Road, Beihang University, Beijing, China, 100191<br> Email: hoyqen@buaa.edu.cn · Tel: (86) 18801053700
 ### Education
 #### School of Instrumentation Science and Opto- electronics Engineering, Beihang University
-<br> Major in Technology and Apparatus of Measuring and Control<br> GPA: 3.94/4.0 (93.78/100); Rank: 1/125<br>
+Major in Technology and Apparatus of Measuring and Control<br> GPA: 3.94/4.0 (93.78/100); Rank: 1/125<br>
 #### School of Biological Science and Medical Engineering, Beihang University  
 ### RESEARCH EXPERIENCE
 #### Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
