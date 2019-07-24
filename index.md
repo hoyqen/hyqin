@@ -11,17 +11,17 @@ School of Instrumentation Science and Opto- electronics Engineering, Beihang Uni
 
 
 ### RESEARCH EXPERIENCE
-## Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
+# Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
 <br> Optimization of an acoustic levitation system  
 <br> Building an acoustic levitation system  
 <br> Levitated liquid droplets for extreme ultraviolet spectroscopy  
 
-## Research Internship (Supervisor: Prof. Ming Ding) 07/2018
+# Research Internship (Supervisor: Prof. Ming Ding) 07/2018
 <br> Present Fabrication of micro-bottle (Q-factor 1E8), micro-sphere and dislocation fiber using fiber fusion splicer  
 <br> Generation of optical frequency combs using micro-bottle resonator  
 <br> Using dislocation fiber using as a concentration sensor and a detection of refractive index Analysis and survey of relevant theory  
 
-## Light-field Three-dimensional Confocal Laser Endomicroscopy
+# Light-field Three-dimensional Confocal Laser Endomicroscopy
 <br> Use Zemax to simulate the wavelength-focus length relationship of Grin Lens in our laser confocal microscopy  
 <br> Use Labview to control PZT scanning and gather information from the spectrometer  
 <br> Fabricate the fiber based device of grin lens  
