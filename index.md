@@ -1,8 +1,8 @@
-### Haoye Qin
+## Haoye Qin
 No.37 Xueyuan Road, Beihang University, Beijing, China, 100191
 <br> Email: hoyqen@buaa.edu.cn · Tel: (86) 18801053700
 
-### Education
+## Education
 
 School of Instrumentation Science and Opto- electronics Engineering, Beihang University  
 <br> Major in Technology and Apparatus of Measuring and Control  
@@ -10,8 +10,8 @@ School of Instrumentation Science and Opto- electronics Engineering, Beihang Uni
 <br> School of Biological Science and Medical Engineering, Beihang University  
 
 
-### RESEARCH EXPERIENCE
-# Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
+## RESEARCH EXPERIENCE
+Current Research Internship (Caltech, Chemical and Chemical Engineering Division)
 <br> Optimization of an acoustic levitation system  
 <br> Building an acoustic levitation system  
 <br> Levitated liquid droplets for extreme ultraviolet spectroscopy  
@@ -26,7 +26,7 @@ School of Instrumentation Science and Opto- electronics Engineering, Beihang Uni
 <br> Use Labview to control PZT scanning and gather information from the spectrometer  
 <br> Fabricate the fiber based device of grin lens  
 
-### PUBLICATION
+## PUBLICATION
 Paper:
 
 
@@ -35,17 +35,17 @@ Patent:
 <br> An acoustic suspension device, microscope and contactless inspection system (CHINA)  
 
 
-### AWARDS
+## AWARDS
  National Scholarship  
 <br> Finalist in Global Medical Engineering Contest 2018  
 <br> Challenge Cup of Beijing, 1st Award  
 <br> Excellent Entrepreneurship Team of College Students in Beijing, 3rd Award  
 <br> Honor Student of BUAA  
-### TECHNICAL SKILL  
+## TECHNICAL SKILL  
  Software: Labview (DAQ and IMAQ suites included); Comsol; Zemax; FDTD; Solidworks    
 <br>  Programming Skills: MATLAB; C; Mathematics; Python  
 
-### ADDITIONAL INFORMATION
+## ADDITIONAL INFORMATION
 Languages: Native in Mandarin Chinese  
 <br> Interests: Badminton  
 <br> Charity: More than 200 hours of volunteer service  
